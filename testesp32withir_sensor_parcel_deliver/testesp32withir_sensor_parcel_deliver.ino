@@ -3,8 +3,8 @@
 #include <WiFiClientSecure.h>
 
 // Telegram bot credentials
-const char* botToken = "7274360420:AAFgRUnB29L7dTXVjTme-KOUqjnaZ-iZ9JI";
-const char* chatID = "7734435919"; // Get this by starting a chat with your bot and checking updates
+const char* botToken = "Your Token From Telegram";
+const char* chatID = "Your Chat ID From Telegram"; // Get this by starting a chat with your bot and checking updates
 
 // IR sensor pin
 const int irSensorPin = 5;
